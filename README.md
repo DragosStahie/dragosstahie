@@ -12,7 +12,7 @@ A modern BLE-powered app for fitness tracking that:
 - Displays real-time BPM readings and **color-coded heart rate zones** on an interactive graph.  
 - Built with **Jetpack Compose**, **Coroutines**, and Clean Architecture principles.  
 
-[View Project](#)  
+[View Project](https://github.com/DragosStahie/heart_rate_monitor)  
 
 ---
 
@@ -23,7 +23,7 @@ A cycling companion app designed to help you manage and track your rides:
 - **Service Notifications**: Receive reminders for scheduled service intervals.  
 - **Settings**: Customize measurement units (e.g., kilometers/miles) and manage service reminder preferences.  
 
-[View Project](#)  
+[View Project]([#](https://github.com/DragosStahie/my-bike))  
 
 ---
 
